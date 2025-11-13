@@ -43,8 +43,8 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>Dr. Sarah Mitchell</title>
-        <meta name="description" content="Experience exceptional healthcare with Dr. Sarah Mitchell. Specialized in family medicine, preventive care, and chronic disease management." />
+        <title>Life Coach Pro</title>
+        <meta name="description" content="Experience exceptional healthcare with Life Coach Pro. Specialized in family medicine, preventive care, and chronic disease management." />
       </Helmet>
       <div className="min-h-screen">
         <Navbar />

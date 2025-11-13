@@ -7,8 +7,8 @@ const AboutPage = () => {
   return (
     <>
       <Helmet>
-        <title>About Dr. Sarah Mitchell | Medical Professional</title>
-        <meta name="description" content="Learn about Dr. Sarah Mitchell's qualifications, experience, and patient-centered approach to healthcare." />
+        <title>About | Life Coach Pro</title>
+        <meta name="description" content="Learn about Life Coach Pro's qualifications, experience, and patient-centered approach to healthcare." />
       </Helmet>
       <div className="min-h-screen">
         <Navbar />

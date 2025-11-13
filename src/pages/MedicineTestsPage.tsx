@@ -127,7 +127,7 @@ const MedicineTestsPage = () => {
   return (
     <>
       <Helmet>
-        <title>Medicine & Tests - Dr. Sarah Mitchell</title>
+        <title>Medicine & Tests - Life Coach Pro</title>
         <meta name="description" content="Browse and order medicines and medical tests online" />
       </Helmet>
       <div className="min-h-screen bg-background">

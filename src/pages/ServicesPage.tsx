@@ -7,7 +7,7 @@ const ServicesPage = () => {
   return (
     <>
       <Helmet>
-        <title>Medical Services | Dr. Sarah Mitchell</title>
+        <title>Medical Services | Life Coach Pro</title>
         <meta name="description" content="Comprehensive medical services including general consultations, preventive care, chronic disease management, and specialized treatments." />
       </Helmet>
       <div className="min-h-screen">

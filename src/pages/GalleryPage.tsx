@@ -7,7 +7,7 @@ const GalleryPage = () => {
   return (
     <>
       <Helmet>
-        <title>Gallery | Dr. Sarah Mitchell's Clinic</title>
+        <title>Gallery | Life Coach Pro Clinic</title>
         <meta name="description" content="Explore our modern medical facility with state-of-the-art equipment and comfortable patient areas." />
       </Helmet>
       <div className="min-h-screen">

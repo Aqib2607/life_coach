@@ -14,7 +14,7 @@ const CartPage = () => {
     return (
       <>
         <Helmet>
-          <title>Shopping Cart - Dr. Sarah Mitchell</title>
+          <title>Shopping Cart - Life Coach Pro</title>
           <meta name="description" content="Your shopping cart" />
         </Helmet>
         <div className="min-h-screen bg-background">
@@ -46,7 +46,7 @@ const CartPage = () => {
   return (
     <>
       <Helmet>
-        <title>Shopping Cart - Dr. Sarah Mitchell</title>
+        <title>Shopping Cart - Life Coach Pro</title>
         <meta name="description" content="Review your cart and proceed to checkout" />
       </Helmet>
       <div className="min-h-screen bg-background">

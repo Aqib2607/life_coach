@@ -136,8 +136,8 @@ const BlogPage = () => {
   return (
     <>
       <Helmet>
-        <title>Health Blog | Dr. Sarah Mitchell</title>
-        <meta name="description" content="Read expert medical advice, health tips, and wellness insights from Dr. Sarah Mitchell." />
+        <title>Health Blog | Life Coach Pro</title>
+        <meta name="description" content="Read expert medical advice, health tips, and wellness insights from Life Coach Pro." />
       </Helmet>
       <div className="min-h-screen">
         <Navbar />

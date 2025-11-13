@@ -7,8 +7,8 @@ const ContactPage = () => {
   return (
     <>
       <Helmet>
-        <title>Contact Us | Dr. Sarah Mitchell</title>
-        <meta name="description" content="Get in touch with Dr. Sarah Mitchell's clinic. Book an appointment or contact us for any inquiries." />
+        <title>Contact Us | Life Coach Pro</title>
+        <meta name="description" content="Get in touch with Life Coach Pro's clinic. Book an appointment or contact us for any inquiries." />
       </Helmet>
       <div className="min-h-screen">
         <Navbar />
